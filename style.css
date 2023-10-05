@@ -1,0 +1,8 @@
+.nav-text{font-family:'Roboto'; font-size:15pt; font-weight:900; margin-left:30px;}
+.titleh{font-family: Lucida Console; font-weight: 1000;}
+.pic{text-align: center;}
+.title2{font-size: 12pt; font-weight: 7}
+.zoom {transition: transform .2s;margin: 0 auto;}
+.zoom:hover {-ms-transform: scale(1.1); /* IE 9 */-webkit-transform: scale(1.1); /* Safari 3-8 */transform: scale(1.1);}
+.footer{text-decoration: none; transition: .4s;}
+.footer:hover{transition: .4s; background-color: white;}
